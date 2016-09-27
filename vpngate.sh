@@ -4,7 +4,7 @@
 # 2015, Laurent Ghigonis <laurent@gouloum.fr>
 
 PROG=$(basename $0)
-OUT=$HOME/.vpngate
+OUT=/home/cabox/workspace/vpn
 LIST=$OUT/list
 LISTFILE=$OUT/list.txt
 FAV=$OUT/fav
